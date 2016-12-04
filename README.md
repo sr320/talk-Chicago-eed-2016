@@ -1,13 +1,7 @@
 
 
-Talk given at University of Chicago, Ecology and Evolution Departmental Seminar:
-Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation
-
-
----
-
-Epigenetics for Mollusk Workshop
-###Does DNA Methylation Facilitate Phenotypic Plasticity?
+Talk given at University of Chicago, Ecology and Evolution Departmental Seminar Series:
+###Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation
 
 ---
 ###[Slidedeck](https://github.com/sr320/talk-Chicago-eed-2016/raw/master/2016-Chicago.pdf)
